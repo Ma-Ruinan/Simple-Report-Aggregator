@@ -1,0 +1,4 @@
+interface:
+  display_name: "综合测评报告汇总"
+  short_description: "将测评子报告及可选的 Excel 记录汇总为对外综合报告和内部支撑材料"
+  default_prompt: "请使用 $simple-report-aggregator 汇总本轮测评子报告，生成综合测评报告和内部支撑材料。"
