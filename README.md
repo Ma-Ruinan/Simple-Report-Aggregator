@@ -4,8 +4,6 @@
 
 ## 安装
 
-在 Codex 中发送：
-
 > 请安装 GitHub 仓库 Ma-Ruinan/Simple-Report-Aggregator 的 main 分支下的 simple-report-aggregator Skill。安装地址是 https://github.com/Ma-Ruinan/Simple-Report-Aggregator/tree/main/simple-report-aggregator。
 
 ## 使用
