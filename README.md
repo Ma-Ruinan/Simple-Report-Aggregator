@@ -10,6 +10,8 @@
 
 附上本轮子报告，或提供文件路径。Excel 测试记录通常用于生成子报告，汇总时无需另附。若已提供，可按需要适度参考。
 
+对外报告参考[Word 版式模板](simple-report-aggregator/assets/report-template.docx)。已有测评面按默认顺序汇总，缺少的分项跳过，其他测评面放在后面。图表按实际数据和呈现需要选用或重绘。
+
 > 请使用 $simple-report-aggregator，把我附上的本轮子报告汇总成综合测评报告。对象 A 是MobileWork UAT0202 （dsv4-flash-910c），B 是MobileWork UAT0202 （jiutian-236b-1105）  。请保留能解释差异的图表，必要时用可核对的数据重绘。交付一份对外报告和一份内部支撑材料，均为 Word 文件。
 
 | 文件 | 用途 |
